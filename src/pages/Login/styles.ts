@@ -15,12 +15,12 @@ export const SSection = styled.section`
   }
   form {
     background-color: ${colors.primary};
-    border: 0.2rem solid ${colors.primary};
+    border: 0.2rem solid ${colors.black};
     border-radius: 1rem;
     padding: 1.5rem;
     div {
       background-color: ${colors.white};
-      border: 0.15rem solid ${colors.primary};
+      border: 0.15rem solid ${colors.black};
       border-radius: 0.6rem;
       display: flex;
       margin: 0.5rem 0;

@@ -1,7 +1,7 @@
 import { SFooter } from "./styles"
-import Face from "../../assets/face.png"
-import Insta from "../../assets/insta.png"
-import Linkedin from "../../assets/linkedin.png"
+import Face from "../../assets/facebook-logo.png"
+import Insta from "../../assets/instagram-logo.png"
+import X from "../../assets/x-logo.png"
 
 export function Footer() {
   return (
@@ -12,8 +12,8 @@ export function Footer() {
       <a href="http://instagram.com" target="_blank">
         <img src={Insta} alt="Instagram" />
       </a>
-      <a href="http://linkedin.com" target="_blank">
-        <img src={Linkedin} alt="Linkedin" />
+      <a href="http://x.com" target="_blank">
+        <img src={X} alt="X" />
       </a>
     </SFooter>
   )

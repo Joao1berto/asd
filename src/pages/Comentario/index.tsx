@@ -9,8 +9,8 @@ export function Comentario() {
         <ComponentCard
           key={item.id}
           data={item.data}
-          assunto={item.assunto}
-          comentario={item.comentario}
+          evento={item.evento}
+          atletas={item.atletas}
         />
       ))}
     </S.Section>

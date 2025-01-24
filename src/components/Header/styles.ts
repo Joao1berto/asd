@@ -41,7 +41,7 @@ export const SNavBar = styled.nav`
       }
     }
     li:hover {
-      background-color: ${colors.secondary};
+      background-color: ${colors.primary};
     }
   }
   input#menu-toggle {
@@ -53,7 +53,7 @@ export const SNavBar = styled.nav`
       align-items: baseline;
       ul {
         display: none;
-        background-color: ${colors.white};
+        background-color: ${colors.black};
       li {
         text-align: left;
       }

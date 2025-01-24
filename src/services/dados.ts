@@ -1,32 +1,32 @@
 export const dados = [
   {
     id: 1,
-    data: "23/06/2023 07:00:00",
-    assunto: "Aula",
-    comentario: "Componentes"
+    data: "01/02/2025 11:00:00",
+    evento: "UFC Fight Night",
+    atletas: "Adesanya vs Imavov"
   },
   {
     id: 2,
-    data: "23/06/2023 07:10:00",
-    assunto: "Aula Web",
-    comentario: "Serviços"
+    data: "08/02/2025 20:10:00",
+    evento: "UFC 312",
+    atletas: "Du Plessis vs Stickland"
   },
   {
     id: 3,
-    data: "23/06/2023 07:20:00",
-    assunto: "Aula React",
-    comentario: "Rotas"
+    data: "15/02/2025 18:00:00",
+    evento: "UFC Fight Night",
+    atletas: "Cannonier vs Rodrigues"
   },
   {
     id: 4,
-    data: "23/06/2023 07:30:00",
-    assunto: "Aula React Web",
-    comentario: "Estilos"
+    data: "22/02/2025 22:00:00",
+    evento: "UFC Fight Night",
+    atletas: "Sejudo vs Song"
   },
   {
     id: 5,
-    data: "23/06/2023 07:30:00",
-    assunto: "Aula React Web",
-    comentario: "Estilos"
+    data: "01/03/2025 18:00:00",
+    evento: "UFC Fight Night",
+    atletas: "Royval vs Kape"
   },
 ]
