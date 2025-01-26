@@ -1,6 +1,6 @@
 export { Layout as PageLayout } from "./Layout"
 export { Home as PageHome } from "./Home"
-export { Comentario as PageComentario } from "./Comentario"
+export { Comentario as PageComentario } from "./Lutas"
 export { Cadastrar as PageCadastrar } from "./Cadastrar"
 export { Login as PageLogin } from "./Login"
 
